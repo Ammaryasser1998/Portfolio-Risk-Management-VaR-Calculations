@@ -27,6 +27,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/Ammaryasser1998/Portfolio-Risk-Management-VaR-Calculations.git
 
-Install the required packages:
+```Install the required packages:
 
 pip install -r requirements.txt
