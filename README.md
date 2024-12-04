@@ -22,11 +22,11 @@ This project focuses on calculating and analyzing the Value at Risk (VaR) and th
 
 ## How to Use
 
-Clone the repository:
+Clone the repository and install the required packages:
 
 ```bash
 git clone https://github.com/Ammaryasser1998/Portfolio-Risk-Management-VaR-Calculations.git
 
-```Install the required packages:
 
+```bash
 pip install -r requirements.txt
