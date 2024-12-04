@@ -3,7 +3,7 @@ Portfolio risk management project focused on Saudi's financial assets Value at R
 
 ## Overview
 
-This project focuses on calculating and analyzing the Value at Risk (VaR) of a financial portfolio in the Saudi Market. It utilizes  the **historical** methods to estimate potential portfolio losses over a given time frame at a specified confidence level. 
+This project focuses on calculating and analyzing the Value at Risk (VaR) and the Expected Shortfall (ES) of a financial portfolio in the Saudi Market. It utilizes  the **historical** methods to estimate potential portfolio losses over a given time frame at a specified confidence level. 
 
 ---
 
@@ -13,20 +13,20 @@ This project focuses on calculating and analyzing the Value at Risk (VaR) of a f
   - Historical Method: Uses past portfolio returns to estimate risk.
 
 - **Visualization**
-  - Detailed charts and tables showcasing portfolio performance, risk levels, and stress test results.
+  - Detailed charts and tables showcasing portfolio performance and risk levels.
 
 ---
 
-## Files
-
-- `data/`: Contains the input portfolio data (stock prices and weights).
-- `scripts/`: Includes scripts for VaR calculations and stress testing.
-- `results/`: Output files with analysis results and visualizations.
 
 ---
 
 ## How to Use
 
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/portfolio-risk-management.git
+Clone the repository:
+
+```bash
+git clone https://github.com/Ammaryasser1998/Portfolio-Risk-Management-VaR-Calculations.git
+
+Install the required packages:
+
+pip install -r requirements.txt
