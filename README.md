@@ -1,4 +1,3 @@
-HEAD
 
 
 # Portfolio-Risk-Management-VaR-Calculations
